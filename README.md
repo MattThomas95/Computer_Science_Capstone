@@ -1,7 +1,7 @@
-## Computer_Science_Capstone
-# Machine learning application that predicts future COVID-19 cases and deaths in Tennessee
+# Computer_Science_Capstone
+## Machine learning application that predicts future COVID-19 cases and deaths in Tennessee
 
-# Repository File Information :
+### Repository File Information :
 United_States_COVID-19_Cases_and_Deaths_by_State_over_Time.csv contains all the data used to train the prediction model. 
 An updated .csv file can be found at this link https://healthdata.gov/dataset/united-states-covid-19-cases-and-deaths-state-over-time.
 
